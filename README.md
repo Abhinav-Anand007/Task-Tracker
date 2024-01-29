@@ -12,4 +12,4 @@
 8) Tasks can be filtered using the fiter option (all, completed and incomplete).
 9) Local storage has also been implemented to persist tasks even when the page is refreshed.
 
-Happy Tracking! 😉🗒️
+Happy Tracking! 😊🗒️
